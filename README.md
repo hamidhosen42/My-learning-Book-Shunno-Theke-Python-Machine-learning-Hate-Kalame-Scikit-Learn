@@ -2,4 +2,4 @@
 
 # reference :
   1. [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/)
-  2. 
+  2. [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন (GitHub-Link)](https://github.com/hamidhosen42/ml-python)
