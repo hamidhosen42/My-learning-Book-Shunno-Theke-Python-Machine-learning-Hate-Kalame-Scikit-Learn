@@ -5,8 +5,7 @@
   2. [শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন (GitHub-Link)](https://github.com/hamidhosen42/ml-python)
   3. [Machine Learning with Iris Dataset](https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset)
 
-### কী করবো সামনে? Most Importent Book List:
-### Most Importent Machine Learning Book and Github link:
+### কী করবো সামনে? Most Importent Machine Learning Book and Github link:
    1. [1-Learning scikit-learn Machine Learning in Python, by Raúl Garreta, Guillermo Moncecchi.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7068876/1-Learning.scikit-learn.Machine.Learning.in.Python.by.Raul.Garreta.Guillermo.Moncecchi.pdf) - চ্যাপ্টার ২, টাইটানিক হাইপোথেসিস উইথ ডিসিশন ট্রিজ,  প্রেডিকটিং হাউজ প্রাইসেস উইথ রিগ্রেশন, চ্যাপ্টার ৪, ফিচার এক্সট্রাকশন, ফিচার সিলেকশন, গ্রিড সার্চ ইত্যাদি। 
          1. [GitHub Full Book Example](https://github.com/gmonce/scikit-learn-book)
          2. [GitHub Full Book Example](https://github.com/akoichig/Garreta_Learning_scikit-learn_Machine_Learning_in_Python)
@@ -54,3 +53,14 @@
    8. ডেটাস্কুলের কেভিন মার্কহামের শুরুর দিকের ভিডিও টিউটোরিয়াল:  https://www.youtube.com/c/dataschool/playlists পাশাপাশি ডাক্সএর মেশিন লার্নিং এর অংক https://towardsdatascience.com/mathematics-for-machine-learning-linear-regression-least-square-regression-de09cf53757c  
 
    9. [9-Predictive Analytics The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siegel.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7069100/9-Predictive.Analytics.The.Power.to.Predict.Who.Will.Click.Buy.Lie.or.Die.by.Eric.Siegel.pdf)- অসাধারণ একটা বই, পার্সপেক্টিভ পাবার জন্য। সময় থাকলে পুরো বই। 
+
+   10. [10-The Hundred Page Machine Learning Book  by Andriy Burkov.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078190/10-The.Hundred.Page.Machine.Learning.Book.by.Andriy.Burkov.pdf) Chapter 4: Anatomy of a Learning Algorithm,Chapter 5: Basic Practice,Chapter 7: Problems and Solutions
+          1. [GitHub Full Book Example](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/General-Machine-Learning/The%20Hundred-Page%20Machine%20Learning%20Book%20by%20Andriy%20Burkov/Links%20to%20read%20the%20chapters%20online.md)
+          2. [GitHub Full Book Example](https://github.com/aburkov/theMLbook)
+
+   11. [11-TensorFlow For Deep Learning From Linear Regression to Peinfocement Learning by Bharath Tamsundar & Reza Bosagh Zadeh.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078394/11-TensorFlow.For.Deep.Learning.From.Linear.Regression.to.Peinfocement.Learning.by.Bharath.Tamsundar.Reza.Bosagh.Zadeh.pdf)
+          1. [GitHub Full Book Example](https://github.com/matroid/dlwithtf)
+     
+   12. [12-Learning TensorFlow A Guide To Buildinf Deep Learning Systems Tom Hope.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078395/12-Learning.TensorFlow.A.Guide.To.Buildinf.Deep.Learning.Systems.Tom.Hope.pdf)
+          1. [GitHub Full Book Example](https://github.com/giser-yugang/Learning_TensorFlow)
+          2. [GitHub Full Book Example](https://github.com/gigwegbe/Learning-TensorFlow)
