@@ -64,3 +64,11 @@
    12. [12-Learning TensorFlow A Guide To Buildinf Deep Learning Systems Tom Hope.pdf](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial/files/7078395/12-Learning.TensorFlow.A.Guide.To.Buildinf.Deep.Learning.Systems.Tom.Hope.pdf)
           1. [GitHub Full Book Example](https://github.com/giser-yugang/Learning_TensorFlow)
           2. [GitHub Full Book Example](https://github.com/gigwegbe/Learning-TensorFlow)
+
+### পাইথনে মেশিন লার্নিং দিয়ে মুভি রিকোমেন্ডার সিস্টেম:
+
+    দুটো লিংক যেগুলো দিয়ে ঘরে বসে একটা খুব সাধারন মুভি রিকোমেন্ডার সিস্টেম তৈরি করা সম্ভব। এই মডেলগুলো কোনভাবেই কম্প্লেক্সিটি, মানগত ভাবে এবং অ্যাক্যুরেসিতে ইন্ডাস্ট্রি স্ট্যান্ডার্ড এর কাছে ঘেঁষবে না, তবে বেশ ভালো একটা ধারণা দেবে - কিভাবে একটা রিয়েল ওয়ার্ল্ড অ্যাপ্লিকেশন চলে ‘মেশিন লার্নিং’ দিয়ে। এক্ষেত্রে আমার প্রিয় ডেটাসেট হচ্ছে “মুভিলেন্স”। এটা আসল মুভি ডেটাসেটের একটা ছোট সাবসেট, যেখানে ৭০০ ব্যবহারকারীর ৯০০০ মুভির ২ লাখ রেটিং আছে।
+    টিউটোরিয়ালগুলোর অনলাইন লিংক:
+    
+  1. https://stackabuse.com/creating-a-simple-recommender-system-in-python-using-pandas/
+  2. https://github.com/fuxuemingzhu/MovieLens-Recommender
